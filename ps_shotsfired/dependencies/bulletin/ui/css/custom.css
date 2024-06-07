@@ -1,0 +1,5 @@
+/* PUT YOUR CUSTOM CSS OVERRIDES HERE */
+.bulletin-notification-container.notification-container-CUSTOM-BOTTOM-POSITION {
+    left: 24px;
+    bottom: 250px;
+}
